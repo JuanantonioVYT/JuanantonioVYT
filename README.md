@@ -1,6 +1,6 @@
 # JuanantonioVYT's GitHub Profile
 
-![Profile Banner](link_to_banner_image)
+![Profile Banner]([link_to_banner_image](https://github.com/account))
 
 ## Introduction
 
