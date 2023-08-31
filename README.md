@@ -1,6 +1,6 @@
 # JuanantonioVYT's GitHub Profile
 
-![Profile Banner]([link_to_banner_image](https://github.com/account))
+![Profile Banner](https://cdn.discordapp.com/attachments/974529762414448651/1146621690646908988/78661859.png)
 
 ## Introduction
 
